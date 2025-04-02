@@ -1,4 +1,3 @@
-<h2 align="center"> Typing Stats: [Monkeytype 🏎️💨](https://monkeytype.com/profile/crisisson)</h2> 
-
-
-
+<h2 align="center">
+  Typing Stats: <a href="https://monkeytype.com/profile/crisisson">Monkeytype 🏎️💨</a>
+</h2>
