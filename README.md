@@ -1,1 +1,1 @@
-## Typing Stats<img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/logo-svg/our_theme.svg" alt="Monkeytype Logo" width="30"> <a href="https://monkeytype.com/profile/crisisson">Monkeytype 🏎️💨</a>
+## Typing Stats <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/logo-svg/our_theme.svg" alt="Monkeytype Logo" width="30"> <a href="https://monkeytype.com/profile/crisisson">Monkeytype 🏎️💨</a>
