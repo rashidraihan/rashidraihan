@@ -1,2 +1,2 @@
-## Typing Stats 🏎️💨
-[Monkeytype profile](https://monkeytype.com/profile/crisisson) 
+## Typing Stats: [Monkeytype 🏎️💨](https://monkeytype.com/profile/crisisson)
+
