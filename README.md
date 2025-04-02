@@ -13,13 +13,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rashid&layout=compact&theme=radical" alt="WakaTime Stats" />
 </p>
-## 🖥️ Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidraihan&layout=compact&theme=radical)
-
-## ⏳ Coding Activity (Last 7 Days)
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rashid&layout=compact&theme=radical)
 
 
 
