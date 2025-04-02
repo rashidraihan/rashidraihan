@@ -6,7 +6,8 @@
 
 ## ⏳ Coding Activity (Last 7 Days)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rashidraihan&layout=compact&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rashid&layout=compact&theme=radical)
+
 
 
 
