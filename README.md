@@ -1,9 +1,6 @@
-<p align="center">
-  <a href="https://www.kaggle.com/raihanrashid021"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="30" /></a>
-  <a href="https://github.com/raihanrashid021"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" /></a>
-</p>
-
-
+![image](https://github.com/user-attachments/assets/4ebb739e-ceb7-46bf-8301-5a669c84a96e)`kuk-ku-ruk-kooo`
+---
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/raihanrashid021)
 
 
 
