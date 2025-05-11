@@ -1,1 +1,2 @@
-## Typing Stats: <a href="https://monkeytype.com/profile/crisisson" target="_blank"> <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/logo-svg/our_theme.svg" alt="Monkeytype Logo" width="35"></a>
+## Hey ![image](https://github.com/user-attachments/assets/3b648624-c64b-4329-a972-a6681d2b89e7)
+
